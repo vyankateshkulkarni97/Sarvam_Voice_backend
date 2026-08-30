@@ -1,3 +1,14 @@
+# Sarvam Voice
+<img width="1908" height="891" alt="image" src="https://github.com/user-attachments/assets/cb737678-c4b9-41d7-9db1-3cd353eb77b8" />
+
+<img width="1897" height="890" alt="image" src="https://github.com/user-attachments/assets/33ee5691-e8c5-47da-bfe8-bbfe9492e40d" />
+
+
+
+# Audio Attribute Inference
+<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/c4e1ffdb-bdde-4c77-83fe-379dff2ddb17" />
+
+
 
 Text to Audio 
 <img width="1916" height="892" alt="image" src="https://github.com/user-attachments/assets/2bdef34f-53bb-46d1-bd5b-19f3b836a950" />
