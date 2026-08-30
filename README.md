@@ -1,3 +1,8 @@
+
+Text to Audio 
+<img width="1916" height="892" alt="image" src="https://github.com/user-attachments/assets/2bdef34f-53bb-46d1-bd5b-19f3b836a950" />
+
+
 # Voice AI Audio Attribute Service
 
 ## 1. Requirements
